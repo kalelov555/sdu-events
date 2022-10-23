@@ -1,0 +1,18 @@
+#footer {
+  background-color: #1c2566;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 1% 0;
+  color: #fff;
+}
+
+#footer .container {
+  display: flex;
+  flex-direction: row;
+}
+
+#footer .container .footer-contacts {
+  margin-left: 100px;
+}
